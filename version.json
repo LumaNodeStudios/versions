@@ -3,5 +3,10 @@
     "version": "1.0.0",
     "changelog": "Initial Release",
     "releaseDate": "2026-06-23"
+  },
+  "LNS_Housing": {
+    "version": "0.1.0",
+    "changelog": "Update 0.1.0",
+    "releaseDate": "2026-07-28"
   }
 }
